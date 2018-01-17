@@ -1,7 +1,3 @@
 # hello-world
 my test project
-dshdjhsaj
-djadha
-dhauidyiu\
-dhdjahsida
-dhushdia
+这是第二个分支的readme
